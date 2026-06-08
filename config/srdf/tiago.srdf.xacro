@@ -6,10 +6,12 @@
 
 <robot xmlns:xacro="http://ros.org/wiki/xacro" name="tiago">
 
+    <virtual_joint name="virtual_joint" type="planar" parent_frame="world" child_link="base_footprint"/>
+
     <!-- ARGUMENTS -->
 
     <!-- pmb2, omni_base -->
-    <xacro:arg name="base_type" default="pmb2"/>
+    <xacro:arg name="base_type" default="omni_base"/>
 
     <!-- no-arm, tiago-arm -->
     <xacro:arg name="arm_type" default="tiago-arm"/>

@@ -426,8 +426,8 @@
     <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_grasping_frame" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_grasping_frame" link2="suspension_front_left_link" reason="Never"/>
     <disable_collisions link1="hand_grasping_frame" link2="suspension_front_right_link" reason="Never"/>
     <disable_collisions link1="hand_grasping_frame" link2="suspension_rear_left_link" reason="Never"/>
@@ -445,16 +445,16 @@
     <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_abd_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_abd_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_flex_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_index_flex_2_link" link2="hand_safety_box" reason="Default"/>
     <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -462,8 +462,8 @@
     <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_flex_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_index_flex_3_link" link2="hand_safety_box" reason="Default"/>
     <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -471,16 +471,16 @@
     <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_flex_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_flex_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="suspension_rear_right_link" reason="Never"/>
     <disable_collisions link1="hand_index_link" link2="virtual_base_laser_link" reason="Never"/>
@@ -491,8 +491,8 @@
     <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_virtual_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_2_link" link2="hand_safety_box" reason="Default"/>
     <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -500,8 +500,8 @@
     <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_virtual_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_2_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_3_link" link2="hand_safety_box" reason="Default"/>
@@ -510,64 +510,64 @@
     <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_index_virtual_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_index_virtual_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_abd_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_abd_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_flex_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_flex_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_flex_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_flex_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_virtual_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_virtual_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_little_virtual_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_little_virtual_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -575,24 +575,24 @@
     <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_abd_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_abd_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_flex_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_flex_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_3_link" link2="hand_safety_box" reason="Default"/>
     <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -600,24 +600,24 @@
     <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_flex_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_flex_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_virtual_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_virtual_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_3_link" link2="hand_safety_box" reason="Default"/>
     <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -625,16 +625,16 @@
     <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_middle_virtual_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_middle_virtual_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_mrl_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_mrl_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_mrl_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_mrl_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="suspension_rear_right_link" reason="Never"/>
     <disable_collisions link1="hand_mrl_link" link2="virtual_base_laser_link" reason="Never"/>
@@ -645,56 +645,56 @@
     <disable_collisions link1="hand_palm_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_palm_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_palm_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_palm_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_palm_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_palm_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_palm_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_palm_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_abd_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_abd_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_flex_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_flex_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_flex_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_flex_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_virtual_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_1_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_virtual_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -702,24 +702,24 @@
     <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_ring_virtual_3_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_ring_virtual_3_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_safety_box" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_safety_box" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_safety_box" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_safety_box" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_safety_box" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_safety_box" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_safety_box" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_safety_box" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_safety_box" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_safety_box" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_depth_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_depth_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_abd_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_abd_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -727,8 +727,8 @@
     <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_flex_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_1_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_1_link" link2="suspension_rear_right_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_1_link" link2="virtual_base_laser_link" reason="Never"/>
@@ -737,8 +737,8 @@
     <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_flex_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_2_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_flex_2_link" link2="virtual_base_laser_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_link" link2="head_front_camera_depth_frame" reason="Never"/>
@@ -746,8 +746,8 @@
     <disable_collisions link1="hand_thumb_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_link" link2="suspension_rear_right_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_link" link2="virtual_base_laser_link" reason="Never"/>
@@ -758,8 +758,8 @@
     <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_virtual_1_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_1_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_1_link" link2="suspension_rear_right_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_1_link" link2="virtual_base_laser_link" reason="Never"/>
@@ -768,8 +768,8 @@
     <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_thumb_virtual_2_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_2_link" link2="suspension_rear_left_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_2_link" link2="suspension_rear_right_link" reason="Never"/>
     <disable_collisions link1="hand_thumb_virtual_2_link" link2="virtual_base_laser_link" reason="Never"/>
@@ -780,8 +780,8 @@
     <disable_collisions link1="hand_tool_link" link2="head_front_camera_link" reason="Never"/>
     <disable_collisions link1="hand_tool_link" link2="head_front_camera_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_tool_link" link2="head_front_camera_orbbec_aux_joint_frame" reason="Never"/>
-    <disable_collisions link1="hand_tool_link" link2="head_front_camera_rgb_frame" reason="Never"/>
-    <disable_collisions link1="hand_tool_link" link2="head_front_camera_rgb_optical_frame" reason="Never"/>
+    <disable_collisions link1="hand_tool_link" link2="head_front_camera_color_frame" reason="Never"/>
+    <disable_collisions link1="hand_tool_link" link2="head_front_camera_color_optical_frame" reason="Never"/>
     <disable_collisions link1="hand_tool_link" link2="suspension_front_left_link" reason="Never"/>
     <disable_collisions link1="hand_tool_link" link2="suspension_front_right_link" reason="Never"/>
     <disable_collisions link1="hand_tool_link" link2="suspension_rear_left_link" reason="Never"/>

@@ -1,8 +1,10 @@
 moveit_setup_assistant_config:
-  URDF:
+  urdf:
     package: tiago_description
     relative_path: robots/tiago.urdf.xacro
-  SRDF:
+  srdf:
     relative_path: config/tiago.srdf
-  CONFIG:
-    generated_timestamp: 1416393279
+  package_settings:
+    author_name: Vincent Rist
+    author_email: vincent.rist@ovgu.de
+    generated_timestamp: 1780930638
