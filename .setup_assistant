@@ -7,4 +7,4 @@ moveit_setup_assistant_config:
   package_settings:
     author_name: Vincent Rist
     author_email: vincent.rist@ovgu.de
-    generated_timestamp: 1780930638
+    generated_timestamp: 1780935690

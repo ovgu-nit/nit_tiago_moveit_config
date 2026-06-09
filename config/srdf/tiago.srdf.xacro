@@ -6,7 +6,7 @@
 
 <robot xmlns:xacro="http://ros.org/wiki/xacro" name="tiago">
 
-    <virtual_joint name="virtual_joint" type="planar" parent_frame="world" child_link="base_footprint"/>
+    <virtual_joint name="virtual_joint" type="planar" parent_frame="odom" child_link="base_footprint"/>
 
     <!-- ARGUMENTS -->
 
